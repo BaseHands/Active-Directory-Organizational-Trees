@@ -1,19 +1,18 @@
 <p align="center">
-<img src="![image](https://github.com/user-attachments/assets/7b4f8df2-ce2a-4ad3-84a3-1b15da9c331f)"/>
+<img src="https://i.imgur.com/Esqi3CH.png"/>
 </p>
 
-<h1>Active Directory - </h1>
-This tutorial outlines the steps to creating Organizational Units, Groups, and Users in Microsoft's Active Directory.<br />
-
+<h1>Active Directory Tutorial</h1>
+This tutorial outlines the steps to creating Organizational Units, Groups, and Users in Microsoft's Active Directory.
 
 <h2>Environments and Technologies Used</h2>
 
 - VMware Workstation Pro
-- Windows Server 2022
+- Active Directory
 
 <h2>Operating Systems Used </h2>
 
-- Windows 10</b> (21H2)
+- Windows Seerver 2022</b> (21H2)
 
 <h2>List of Prerequisites</h2>
 
@@ -26,27 +25,18 @@ This tutorial outlines the steps to creating Organizational Units, Groups, and U
 
 <p>
 Right-click the created active directory domain and navigate down to "New" and then to "Organizational Units"
+<img src="https://imgur.com/OVGvf9m.png"/>
 </p>
-<p>
-<img src="https://imgur.com/OVGvf9m"/>
-</p>
+
 <p>
 Here we will create different OUs for the different regions of our company "USA" "Asia" "Europe"
+<img src="https://imgur.com/wIqj529.png"/>
 </p>
-<br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Within each of the three created OUs we will create three more OUs labeled "Computers" "Servers" and "Users"
+<img src="https://imgur.com/3XZbg7B.png"/>
 </p>
-<p>
-within each of the three created OUs we will create three more OUs labeled "Compters" and "Servers"
-</p>
-<br />
 
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
+<h2>Creating Groups and Users</h2>
+
