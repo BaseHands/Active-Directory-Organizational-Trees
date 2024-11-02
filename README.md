@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://imgur.com/Esqi3CH"/>
+<img src="![image](https://github.com/user-attachments/assets/7b4f8df2-ce2a-4ad3-84a3-1b15da9c331f)"/>
 </p>
 
 <h1>Active Directory - </h1>
