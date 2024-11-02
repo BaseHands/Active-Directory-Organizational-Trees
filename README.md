@@ -1,5 +1,5 @@
 <p align="center">
-<img src=""/>
+<img src="https://imgur.com/Esqi3CH"/>
 </p>
 
 <h1>Active Directory - </h1>
@@ -28,7 +28,7 @@ This tutorial outlines the steps to creating Organizational Units, Groups, and U
 Right-click the created active directory domain and navigate down to "New" and then to "Organizational Units"
 </p>
 <p>
-<img src="![Directory Tree](https://github.com/user-attachments/assets/e22595a2-f6c9-422b-83b9-a5fc81f94cc3)"/>
+<img src="https://imgur.com/OVGvf9m"/>
 </p>
 <p>
 Here we will create different OUs for the different regions of our company "USA" "Asia" "Europe"
